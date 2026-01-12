@@ -35,4 +35,4 @@ This project predicts heart disease using Random Forest and XGBoost on the Cleve
 - Visualized performance metrics and predictions
 
 ## Notes
-This project is created for learning and portfolio demonstration purposes.
+This report was originally submitted as part of academic requirements and is shared here for learning and portfolio purposes.
